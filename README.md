@@ -1,6 +1,6 @@
 # SentimentAnalysis
 Simple sentiment analysis code in python
-
+## Sobre:
 Trabalho Final da Disciplina de Fundamentos de Programação para os alunos do primeiro período de Ciência da Computação 2021 na Cesar School.
 
 1) O programa recebe as frases que irão ser analisadas no arquivo de **frases**
